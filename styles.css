@@ -1,0 +1,33 @@
+body{
+    background-color: #333333;
+    padding-top: 20%;
+}
+
+.flexbox-container{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-item{
+    width: 150px;
+    margin: 10px;
+    border: 3px solid #333333;
+    background-color: teal;
+}
+
+.flexbox-item1{
+    min-height: 100px;
+}
+
+.flexbox-item2{
+    min-height: 200px;
+}
+
+.flexbox-item3{
+    min-height: 300px;
+}
+
+.min-axix{
+    background-color: darkblue;
+}
